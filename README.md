@@ -20,15 +20,13 @@
 3. [Alocação dinâmica]
   - 3.1 [Vetores]
   - 3.2 [Matrizes]
-4. [Tipos Estruturados]
-  - 4.1  [Vetores de Estruturas]
-  - 4.2  [Vetores de ponteiros para estruturas]
-  - 4.4 [Enumerações]
+4. [Class (Tipos Estruturados)]
+
 ---
 #### Parte II
 
   1. [Arquivos]
-  2. [Tipos abstrato de dados]
+  2. [Módulos (Tipos abstrato de dados)]
   3. [Complexidade de Algoritmos]
   4. [Algoritmos de Busca]
   5. [Algoritmos de Ordenação]
