@@ -10,14 +10,15 @@
 #### Bacharelado Interdisciplinar em Tecnologia da Informação - UFERSA
 ---
 #### Parte I 
-1. [Ponteiros]
-2. [Alocação dinâmica]
-  - 2.1 [Vetores]
-  - 2.2 [Matrizes]
-3. [Tipos Estruturados]
-  - 3.1  [Vetores de Estruturas]
-  - 3.2  [Vetores de ponteiros para estruturas]
-  - 3.4 [Enumerações]
+1. Funções
+2. [Ponteiros]
+3. [Alocação dinâmica]
+  - 3.1 [Vetores]
+  - 3.2 [Matrizes]
+4. [Tipos Estruturados]
+  - 4.1  [Vetores de Estruturas]
+  - 4.2  [Vetores de ponteiros para estruturas]
+  - 4.4 [Enumerações]
 ---
 #### Parte II
 
@@ -33,6 +34,8 @@
   2. [Estrutura de dados: Pilha]
   3. [Estrutura de dados: Fila]
 ---  
+
+
 
 <div>
   <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/ufersa.jpg" width="700" height="250">
