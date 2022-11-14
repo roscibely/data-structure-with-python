@@ -11,7 +11,9 @@
 
 ---
 #### Parte 0 
-1. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+1. [Variáveis](https://github.com/roscibely/data-structure-with-python/tree/develop/variaveis)
+2. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+3. [Laços de repetição](https://github.com/roscibely/data-structure-with-python/tree/develop/loops)
 ---
 
 #### Parte I 
@@ -20,15 +22,13 @@
 3. [Alocação dinâmica]
   - 3.1 [Vetores]
   - 3.2 [Matrizes]
-4. [Tipos Estruturados]
-  - 4.1  [Vetores de Estruturas]
-  - 4.2  [Vetores de ponteiros para estruturas]
-  - 4.4 [Enumerações]
+4. [Class (Tipos Estruturados)]
+
 ---
 #### Parte II
 
   1. [Arquivos]
-  2. [Tipos abstrato de dados]
+  2. [Módulos (Tipos abstrato de dados)]
   3. [Complexidade de Algoritmos]
   4. [Algoritmos de Busca]
   5. [Algoritmos de Ordenação]
