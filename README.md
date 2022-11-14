@@ -11,7 +11,9 @@
 
 ---
 #### Parte 0 
-1. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+1. [Variáveis](https://github.com/roscibely/data-structure-with-python/tree/develop/variaveis)
+2. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+3. [Laços de repetição](https://github.com/roscibely/data-structure-with-python/tree/develop/loops)
 ---
 
 #### Parte I 
