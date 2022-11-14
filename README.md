@@ -8,7 +8,12 @@
 
 ### PEX1241 - Algoritmos e Estrutura de dados I
 #### Bacharelado Interdisciplinar em Tecnologia da Informação - UFERSA
+
 ---
+Parte 0 
+[If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+---
+
 #### Parte I 
 1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/functions)
 2. [Ponteiros]
