@@ -11,6 +11,8 @@ O laço for é usado para iterar sobre uma sequência (lista, tupla, dicionário
 ```python
 >>> for i in range(5):
 ...     print(i)
+
+saída:
 ...
 0
 1
@@ -24,6 +26,8 @@ O laço for é usado para iterar sobre uma sequência (lista, tupla, dicionário
 ```python
 >>> for i in range(5, 10):
 ...     print(i)
+
+saída:
 ...
 5
 6
@@ -38,6 +42,8 @@ O laço for é usado para iterar sobre uma sequência (lista, tupla, dicionário
 
 >>> for i in range(0, 10, 3):
 ...     print(i)
+
+saída:
 ...
 0
 3
@@ -50,6 +56,8 @@ O laço for é usado para iterar sobre uma sequência (lista, tupla, dicionário
 ```python
 >>> for i in range(-10, -100, -30):
 ...     print(i)
+
+saída:
 ...
 -10
 -40
@@ -67,6 +75,8 @@ O laço while é usado para executar um bloco de código enquanto uma condição
 >>> while i < 6:
 ...     print(i)
 ...     i += 1
+
+saída:
 ...
 1
 2
