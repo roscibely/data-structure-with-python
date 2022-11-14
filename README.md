@@ -10,8 +10,8 @@
 #### Bacharelado Interdisciplinar em Tecnologia da Informação - UFERSA
 
 ---
-Parte 0 
-[If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
+#### Parte 0 
+1. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
 ---
 
 #### Parte I 
