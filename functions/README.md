@@ -1,5 +1,3 @@
-# Sumario do arquivo: README.md
-
 # Definição de Funções com Python 3 
 
 ## Definição de Funções
