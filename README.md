@@ -20,9 +20,9 @@
 1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/functions)
 2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/ponteiros)
 3. [Alocação dinâmica](https://github.com/roscibely/data-structure-with-python/tree/main/alocacao_dinamica)
-  - 3.1 [Vetores]
-  - 3.2 [Matrizes]
-4. [Class (Tipos Estruturados)]
+4. [Vetores](https://github.com/roscibely/data-structure-with-python/tree/develop/vetores)
+5. [Matrizes]
+6. [Class (Tipos Estruturados)]
 
 ---
 #### Parte II
