@@ -18,7 +18,7 @@
 
 #### Parte I 
 1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/functions)
-2. [Ponteiros]
+2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/ponteiros)
 3. [Alocação dinâmica]
   - 3.1 [Vetores]
   - 3.2 [Matrizes]
