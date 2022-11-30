@@ -44,6 +44,9 @@
     - Introdução ao Google Colab [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
     - Google Colab Cont. [opcional ] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
     - :hourglass_flowing_sand: Tempo estimado: 2h
+    
+- 🤜 Dataquest Academic Program [Link](https://www.dataquest.io/course/data-structures-fundamentals/)
+    - :hourglass_flowing_sand: Tempo estimado: 6h
 
 
 <div>
