@@ -11,13 +11,20 @@
 
 ---
 #### Parte 0 
+- Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/introduction-to-python/)
+  - :hourglass_flowing_sand: Tempo estimado: 5h
+  
 1. [Variáveis](https://github.com/roscibely/data-structure-with-python/tree/develop/variaveis)
 2. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
 3. [Laços de repetição](https://github.com/roscibely/data-structure-with-python/tree/develop/loops)
+- Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
+  - :hourglass_flowing_sand: Tempo estimado: 7h
 ---
 
 #### Parte I 
 1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/functions)
+ - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)
+    - :hourglass_flowing_sand: Tempo estimado: 7h
 2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/ponteiros)
 3. [Alocação dinâmica](https://github.com/roscibely/data-structure-with-python/tree/main/alocacao_dinamica)
 4. [Vetores](https://github.com/roscibely/data-structure-with-python/tree/develop/vetores)
@@ -30,6 +37,8 @@
   1. [Arquivos]
   2. [Módulos (Tipos abstrato de dados)]
   3. [Complexidade de Algoritmos]
+      - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
+       - :hourglass_flowing_sand: Tempo estimado: 9h
   4. [Algoritmos de Busca]
   5. [Algoritmos de Ordenação]
 ---
@@ -38,6 +47,13 @@
   1. [Estrutura de dados: Lista]
   2. [Estrutura de dados: Pilha]
   3. [Estrutura de dados: Fila]
+  
+  - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/data-structures-fundamentals/)
+       - :hourglass_flowing_sand: Tempo estimado: 6h
+       
+---
+#### Extra 
+  - Git e controle de versão: 🤜 [curso](https://www.dataquest.io/course/git-and-vcs/)
 ---  
 
 - Materiais complementares
@@ -45,8 +61,7 @@
     - Google Colab Cont. [opcional ] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
     - :hourglass_flowing_sand: Tempo estimado: 2h
     
-- 🤜 Dataquest Academic Program [Link](https://www.dataquest.io/course/data-structures-fundamentals/)
-    - :hourglass_flowing_sand: Tempo estimado: 6h
+
 
 
 <div>
