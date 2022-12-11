@@ -28,7 +28,7 @@
 2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/ponteiros)
 3. [Alocação dinâmica](https://github.com/roscibely/data-structure-with-python/tree/main/alocacao_dinamica)
 4. [Vetores](https://github.com/roscibely/data-structure-with-python/tree/develop/vetores)
-5. [Matrizes]
+5. [Matrizes](https://github.com/roscibely/data-structure-with-python/tree/develop/matrizes)
 6. [Class (Tipos Estruturados)]
 
 ---
