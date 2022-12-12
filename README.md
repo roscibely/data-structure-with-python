@@ -34,7 +34,7 @@
 ---
 #### Parte II
 
-  1. [Arquivos]
+  1. [Arquivos](https://github.com/roscibely/data-structure-with-python/tree/develop/arquivos)
   2. [Módulos (Tipos abstrato de dados)]
   3. [Complexidade de Algoritmos]
       - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
