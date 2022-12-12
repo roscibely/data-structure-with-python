@@ -35,7 +35,7 @@
 #### Parte II
 
   1. [Arquivos](https://github.com/roscibely/data-structure-with-python/tree/develop/arquivos)
-  2. [Módulos (Tipos abstrato de dados)]
+  2. [Módulos](https://github.com/roscibely/data-structure-with-python/tree/develop/modulos)
   3. [Complexidade de Algoritmos]
       - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
        - :hourglass_flowing_sand: Tempo estimado: 9h
