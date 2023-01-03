@@ -131,13 +131,15 @@ b) Qual é a complexidade de espaço de busca(lista, elemento)?
 
 Respostas:
 
-1. a) T(n) = O(n^3)
+ 1.
+- a) T(n) = O(n^3)
 
-b) S(n) = O(n^2)
+- b) S(n) = O(n^2)
 
-2. a) T(n) = O(log n)
+ 2.
+- a) T(n) = O(log n)
 
-b) S(n) = O(1)
+- b) S(n) = O(1)
 
 
 
