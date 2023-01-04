@@ -17,7 +17,7 @@ Existem diversos tipos de ordenação, porém, os mais comuns são:
 
 ## Ordenação por Intercalação
 
-A ordenação por intercalação é um algoritmo de ordenação que consiste em dividir o conjunto de dados em duas partes, ordenar cada uma das partes e depois intercalar as duas partes ordenadas.
+A ordenação por intercalação, também conhecido como merge sort, é um algoritmo de ordenação que consiste em dividir o conjunto de dados em partes, ordenar cada uma das partes e depois intercalar as  partes ordenadas.
 
 Exemplo de implementação com Python:
 
@@ -48,6 +48,22 @@ def merge(lado_esquerdo, lado_direito):
     return [lado_direito[0]] + merge(lado_esquerdo, lado_direito[1:])
 
 ```
+
+A complexidade do algoritmo de ordenação por intercalação é O(n log n). Para entender melhor a complexidade, vamos analisar o algoritmo de ordenação por intercalação de forma recursiva. O algoritmo de ordenação por intercalação é composto por duas funções: a função merge_sort e a função merge. A função merge_sort é responsável por dividir o conjunto de dados em partes, ordenar cada uma das partes e depois intercalar as partes ordenadas. A função merge é responsável por intercalar as partes ordenadas. A função merge_sort é chamada recursivamente até que o conjunto de dados seja dividido em partes com apenas um elemento. A função merge é chamada até que todas as partes ordenadas sejam intercaladas. A complexidade do algoritmo de ordenação por intercalação é O(n log n) porque a função merge_sort é chamada recursivamente log n vezes e a função merge é chamada n vezes. 
+
+Para chegar a complexidade O(n log n), podemos utilizar o teorema mestre. O teorema mestre é um teorema que estabelece uma relação entre a complexidade de um algoritmo recursivo e a complexidade de seus subproblemas. O teorema mestre é composto por três casos: 
+
+- Caso 1: T(n) = aT(n/b) + f(n), onde a >= 1, b > 1 e f(n) é uma função polinomial. Neste caso, a complexidade do algoritmo é O(n log b a).
+- Caso 2: T(n) = T(n/b) + f(n), onde b > 1 e f(n) é uma função polinomial. Neste caso, a complexidade do algoritmo é O(n log b).
+- Caso 3: T(n) = T(n/b) + f(n), onde b > 1 e f(n) é uma função exponencial. Neste caso, a complexidade do algoritmo é O(n log n).
+
+O algoritmo de ordenação por intercalação é do tipo Caso 2. Pois a função custo do algoritmo de ordenação por intercalação é T(n) = T(n/2) + n. Logo, b = 2 e f(n) = n.
+
+Matematicamente, podemos escrever a complexidade do algoritmo de ordenação por intercalação como:
+
+O(n log n) = O(n) * O(log n)
+
+
 
 
 ## Ordenação por Seleção
