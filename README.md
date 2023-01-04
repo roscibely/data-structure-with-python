@@ -39,7 +39,7 @@
   3. [Complexidade de Algoritmos](https://github.com/roscibely/data-structure-with-python/blob/develop/complexidade/README.md)
       - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
        - :hourglass_flowing_sand: Tempo estimado: 9h
-  4. [Algoritmos de Busca]
+  4. [Algoritmos de Busca](https://github.com/roscibely/data-structure-with-python/tree/develop/busca)
   5. [Algoritmos de Ordenação]
 ---
 #### Parte III
