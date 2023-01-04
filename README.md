@@ -40,7 +40,7 @@
       - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
        - :hourglass_flowing_sand: Tempo estimado: 9h
   4. [Algoritmos de Busca](https://github.com/roscibely/data-structure-with-python/tree/develop/busca)
-  5. [Algoritmos de Ordenação]
+  5. [Algoritmos de Ordenação](https://github.com/roscibely/data-structure-with-python/tree/develop/ordenacao)
 ---
 #### Parte III
 
