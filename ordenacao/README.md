@@ -49,7 +49,7 @@ def merge(lado_esquerdo, lado_direito):
 
 ```
 
-A complexidade do algoritmo de ordenação por intercalação é O(n log n). Para entender melhor a complexidade, vamos analisar o algoritmo de ordenação por intercalação de forma recursiva. O algoritmo de ordenação por intercalação é composto por duas funções: a função merge_sort e a função merge. A função merge_sort é responsável por dividir o conjunto de dados em partes, ordenar cada uma das partes e depois intercalar as partes ordenadas. A função merge é responsável por intercalar as partes ordenadas. A função merge_sort é chamada recursivamente até que o conjunto de dados seja dividido em partes com apenas um elemento. A função merge é chamada até que todas as partes ordenadas sejam intercaladas. A complexidade do algoritmo de ordenação por intercalação é O(n log n) porque a função merge_sort é chamada recursivamente log n vezes e a função merge é chamada n vezes. 
+A complexidade de tempo do algoritmo de ordenação por intercalação é O(n log n). Para entender melhor a complexidade, vamos analisar o algoritmo de ordenação por intercalação de forma recursiva. O algoritmo de ordenação por intercalação é composto por duas funções: a função merge_sort e a função merge. A função merge_sort é responsável por dividir o conjunto de dados em partes, ordenar cada uma das partes e depois intercalar as partes ordenadas. A função merge é responsável por intercalar as partes ordenadas. A função merge_sort é chamada recursivamente até que o conjunto de dados seja dividido em partes com apenas um elemento. A função merge é chamada até que todas as partes ordenadas sejam intercaladas. A complexidade do algoritmo de ordenação por intercalação é O(n log n) porque a função merge_sort é chamada recursivamente log n vezes e a função merge é chamada n vezes. 
 
 Para chegar a complexidade O(n log n), podemos utilizar o teorema mestre. O teorema mestre é um teorema que estabelece uma relação entre a complexidade de um algoritmo recursivo e a complexidade de seus subproblemas. O teorema mestre é composto por três casos: 
 
@@ -91,6 +91,16 @@ def selection_sort(lista):
 
 ```
 
+A complexidade de tempo do _selection sort_ é O(n²). 
+
+Para entender melhor a complexidade, vamos analisar o algoritmo de ordenação por seleção. Dentro da função selection_sort, temos dois laços de repetição:
+
+-  O primeiro laço de repetição é responsável por percorrer o conjunto de dados e selecionar o menor elemento. Este laço de repetição é executado n vezes, pois o conjunto de dados é percorrido n vezes.
+- O segundo laço de repetição é responsável por percorrer o conjunto de dados e verificar se o elemento atual é menor que o menor elemento já visto. O segundo laço de repetição é executado n vezes, pois o conjunto de dados é percorrido n vezes. 
+- Logo, a complexidade do algoritmo de ordenação por seleção é n*n, ou seja, O(n²).
+
+
+
 ## Ordenação por Inserção
 
 A ordenação por inserção é um algoritmo de ordenação que consiste em percorrer o conjunto de dados e inserir cada elemento na posição correta. Para isso, é necessário percorrer a lista até o elemento anterior ao elemento que está sendo inserido e verificar se o elemento que está sendo inserido é menor que o elemento anterior. Caso seja, o elemento anterior é deslocado para a direita e o elemento que está sendo inserido é inserido na posição anterior.
@@ -110,6 +120,16 @@ def insertion_sort(lista):
 
 ```
 
+A complexidade de tempo do _insertion sort_ é O(n²). Na função insertion_sort, temos dois laços de repetição:
+
+- O primeiro laço de repetição é responsável por percorrer o conjunto de dados e inserir cada elemento na posição correta. Este laço de repetição é executado n vezes, pois o conjunto de dados é percorrido n vezes.
+
+- O segundo laço de repetição é responsável por percorrer a lista até o elemento anterior ao elemento que está sendo inserido e verificar se o elemento que está sendo inserido é menor que o elemento anterior. O segundo laço de repetição é executado n vezes, pois o conjunto de dados é percorrido n vezes.
+
+- Logo, a complexidade do algoritmo de ordenação por inserção é n*n, ou seja, O(n²) no pior caso.
+
+No melhor caso, a complexidade de tempo é O(n). Pois, no melhor caso, a lista já está ordenada e o algoritmo não precisa fazer nenhuma troca. Ou seja, o laço de repetição interno não é executado nenhuma vez.
+
 ## Ordenação por Troca
 
 A ordenação por troca é um algoritmo de ordenação que consiste em percorrer o conjunto de dados e trocar dois elementos de posição se o primeiro elemento for maior que o segundo elemento. O processo é repetido até que todos os elementos estejam ordenados.
@@ -127,6 +147,8 @@ def bubble_sort(lista):
                 lista[j], lista[j + 1] = lista[j + 1], lista[j]
 
 ```
+
+A complexidade de tempo do _bubble sort_ é O(n²). 
 
 
 
