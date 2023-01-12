@@ -44,7 +44,7 @@
 ---
 #### Parte III
 
-  1. [Estrutura de dados: Lista]
+  1. [Estrutura de dados: Lista](https://github.com/roscibely/data-structure-with-python/tree/main/listas)
   2. [Estrutura de dados: Pilha]
   3. [Estrutura de dados: Fila]
   
