@@ -46,7 +46,7 @@
 
   1. [Dicionários](https://github.com/roscibely/data-structure-with-python/tree/develop/dicionarios)
   2. [Estrutura de dados: Lista](https://github.com/roscibely/data-structure-with-python/tree/main/listas)
-  3. [Estrutura de dados: Pilha]
+  3. [Estrutura de dados: Pilha](https://github.com/roscibely/data-structure-with-python/tree/develop/pilhas)
   4. [Estrutura de dados: Fila]
   
   - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/data-structures-fundamentals/)
