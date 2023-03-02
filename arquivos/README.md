@@ -67,14 +67,76 @@ Para ler todas as linhas de um arquivo, utilizamos a função `readlines()`. Ess
     linhas = arquivo.readlines()
 ```
 
-## Como ler um arquivo linha a linha?
+A função `readlines()` retorna uma lista com todas as linhas do arquivo. Dessa forma, podemos percorrer a lista com um laço de repetição `for`.
 
-Para ler um arquivo linha a linha, utilizamos a função `readline()`. Essa função não recebe parâmetros.
+```python
+    arquivo = open('arquivo.txt', 'r')
+    linhas = arquivo.readlines()
+    for linha in linhas:
+        print(linha)
+```
+
+Ou ainda podemos ler as linhas do arquivo diretamente com um laço de repetição `for`. 
+Para ler um arquivo linha a linha utilizamos o laço de repetição `for`. O laço de repetição `for` percorre cada linha do arquivo.
 
 ```python
     arquivo = open('arquivo.txt', 'r')
     for linha in arquivo:
         print(linha)
+```
+
+## Escrevendo em um arquivo
+
+Para escrever em um arquivo, utilizamos a função `write()`. Essa função recebe um parâmetro: o conteúdo que queremos escrever no arquivo.
+
+```python
+    arquivo = open('arquivo.txt', 'w')
+    arquivo.write('Olá, mundo!')
+```
+
+## Exemplo
+
+### Exemplo 1
+
+Escreva um programa que leia um arquivo texto e imprima o conteúdo do arquivo na tela.
+
+#### Arquivo texto
+
+```python
+    arquivo = open('arquivo.txt', 'r')
+    conteudo = arquivo.read()
+    print(conteudo)
+```
+
+#### Resultado
+
+```python
+    Olá, mundo!
+```
+
+### Exemplo 2
+
+Escreva um programa que leia um arquivo texto e imprima o conteúdo do arquivo na tela linha a linha.
+
+#### Arquivo texto
+
+```python
+    arquivo = open('arquivo.txt', 'r')
+    for linha in arquivo:
+        print(linha)
+```
+
+### Exemplo 3 
+
+Escreva um programa que escreva o conteúdo de uma lista em um arquivo texto.
+
+#### Arquivo texto
+
+```python
+    lista = ['Olá', 'mundo', '!']
+    arquivo = open('arquivo.txt', 'w')
+    for item in lista:
+        arquivo.write(item + '\n')
 ```
 
 ## [Veja mais exemplos](https://github.com/roscibely/data-structure-with-python/blob/main/arquivos/intro_arquivos.ipynb)
