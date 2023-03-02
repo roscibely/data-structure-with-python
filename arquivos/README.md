@@ -77,4 +77,6 @@ Para ler um arquivo linha a linha, utilizamos a função `readline()`. Essa fun�
         print(linha)
 ```
 
+## [Veja mais exemplos](https://github.com/roscibely/data-structure-with-python/blob/main/arquivos/intro_arquivos.ipynb)
+
 Veja um exemplo [aqui](https://github.com/roscibely/data-structure-with-python/blob/develop/arquivos/exemplo_1.py)
