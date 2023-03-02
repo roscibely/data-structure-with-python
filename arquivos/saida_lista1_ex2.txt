@@ -1,0 +1,1 @@
+Menor elemento: 1 Maior elemento: 19 Media: 7.9
