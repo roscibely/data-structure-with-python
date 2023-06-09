@@ -139,6 +139,15 @@ Escreva um programa que escreva o conteúdo de uma lista em um arquivo texto.
         arquivo.write(item + '\n')
 ```
 
+
+
+1. Prática 01 ✅[(clique aqui para ver as questões)](https://github.com/roscibely/algorithms-and-data-structure/blob/develop/arquivos/quest%C3%B5es-pr%C3%A1tica-01-arquivos.pdf):  
+  
+   1️⃣ [Acesse a resposta em Python da questão 1](https://github.com/roscibely/data-structure-with-python/blob/main/arquivos/pratica_q1.py) 
+    
+ 
+   2️⃣ [Acesse a resposta em Python da questão 2](https://github.com/roscibely/data-structure-with-python/blob/main/arquivos/pratica-q2.py) 
+
 ## [Veja mais exemplos](https://github.com/roscibely/data-structure-with-python/blob/main/arquivos/intro_arquivos.ipynb)
 
 Veja um exemplo [aqui](https://github.com/roscibely/data-structure-with-python/blob/develop/arquivos/exemplo_1.py)

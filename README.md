@@ -1,6 +1,11 @@
 <div>
 
   <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/main/Ufersa.png" width="70" height="100">
+  
+
+  
+   <img src="https://www.datacamp.com/datacamp.png" height="85" width="200" alt="icon"  /> 
+
 </div>
 
 # Algorithms and Data Structure with Python 3
@@ -51,7 +56,9 @@
   
   - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/data-structures-fundamentals/)
        - :hourglass_flowing_sand: Tempo estimado: 6h
-       
+---
+#### DataCamp Curso 
+- [Data Structures and Algorithms in Python](https://app.datacamp.com/learn/courses/data-structures-and-algorithms-in-python)
 ---
 #### Extra 
   - Git e controle de versão: 🤜 [curso](https://www.dataquest.io/course/git-and-vcs/)
