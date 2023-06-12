@@ -19,39 +19,39 @@
 - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/introduction-to-python/)
   - :hourglass_flowing_sand: Tempo estimado: 5h
   
-1. [Variáveis](https://github.com/roscibely/data-structure-with-python/tree/develop/variaveis)
-2. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/condicional)
-3. [Laços de repetição](https://github.com/roscibely/data-structure-with-python/tree/develop/loops)
+1. [Variáveis](https://github.com/roscibely/data-structure-with-python/tree/develop/root/variaveis)
+2. [If-else-elif](https://github.com/roscibely/data-structure-with-python/tree/develop/root/condicional)
+3. [Laços de repetição](https://github.com/roscibely/data-structure-with-python/tree/root/develop/loops)
 - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
   - :hourglass_flowing_sand: Tempo estimado: 7h
 ---
 
 #### Parte I 
-1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/functions)
+1. [Funções](https://github.com/roscibely/data-structure-with-python/tree/main/root/functions)
  - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)
     - :hourglass_flowing_sand: Tempo estimado: 7h
-2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/ponteiros)
-3. [Alocação dinâmica](https://github.com/roscibely/data-structure-with-python/tree/main/alocacao_dinamica)
-4. [Vetores](https://github.com/roscibely/data-structure-with-python/tree/develop/vetores)
-5. [Matrizes](https://github.com/roscibely/data-structure-with-python/tree/develop/matrizes)
-6. [Class](https://github.com/roscibely/data-structure-with-python/tree/develop/class)
+2. [Ponteiros](https://github.com/roscibely/data-structure-with-python/tree/develop/root/ponteiros)
+3. [Alocação dinâmica](https://github.com/roscibely/data-structure-with-python/tree/main/root/alocacao_dinamica)
+4. [Vetores](https://github.com/roscibely/data-structure-with-python/tree/develop/root/vetores)
+5. [Matrizes](https://github.com/roscibely/data-structure-with-python/tree/develop/root/matrizes)
+6. [Class](https://github.com/roscibely/data-structure-with-python/tree/develop/root/class)
 
 ---
 #### Parte II
 
-  1. [Arquivos](https://github.com/roscibely/data-structure-with-python/tree/develop/arquivos)
-  2. [Módulos](https://github.com/roscibely/data-structure-with-python/tree/develop/modulos)
-  3. [Complexidade de Algoritmos](https://github.com/roscibely/data-structure-with-python/blob/develop/complexidade/README.md)
+  1. [Arquivos](https://github.com/roscibely/data-structure-with-python/tree/develop/root/arquivos)
+  2. [Módulos](https://github.com/roscibely/data-structure-with-python/tree/develop/root/modulos)
+  3. [Complexidade de Algoritmos](https://github.com/roscibely/data-structure-with-python/blob/develop/root/complexidade/README.md)
       - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/algorithm-complexity/)
        - :hourglass_flowing_sand: Tempo estimado: 9h
-  4. [Algoritmos de Busca](https://github.com/roscibely/data-structure-with-python/tree/develop/busca)
-  5. [Algoritmos de Ordenação](https://github.com/roscibely/data-structure-with-python/tree/develop/ordenacao)
+  4. [Algoritmos de Busca](https://github.com/roscibely/data-structure-with-python/tree/develop/root/busca)
+  5. [Algoritmos de Ordenação](https://github.com/roscibely/data-structure-with-python/tree/develop/root/ordenacao)
 ---
 #### Parte III
 
-  1. [Dicionários](https://github.com/roscibely/data-structure-with-python/tree/develop/dicionarios)
-  2. [Estrutura de dados: Lista](https://github.com/roscibely/data-structure-with-python/tree/main/listas)
-  3. [Estrutura de dados: Pilha](https://github.com/roscibely/data-structure-with-python/tree/develop/pilhas)
+  1. [Dicionários](https://github.com/roscibely/data-structure-with-python/tree/develop/root/dicionarios)
+  2. [Estrutura de dados: Lista](https://github.com/roscibely/data-structure-with-python/tree/main/root/listas)
+  3. [Estrutura de dados: Pilha](https://github.com/roscibely/data-structure-with-python/tree/develop/root/pilhas)
   4. [Estrutura de dados: Fila]
   
   - Curso auxiliar: 🤜 [Dataquest](https://www.dataquest.io/course/data-structures-fundamentals/)
