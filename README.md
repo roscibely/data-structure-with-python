@@ -1,6 +1,6 @@
 <div>
 
-  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/main/Ufersa.png" width="70" height="100">
+  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/main/root/Ufersa.png" width="70" height="100">
   
 
   
@@ -83,6 +83,6 @@
   - [Making Games with Pygame](https://www.amazon.com/Making-Games-Python-Pygame-Sweigart/dp/1469901730) — Um livro que ensina como fazer jogos em Python.
 
 <div>
-  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/ufersa.jpg" width="700" height="250">
+  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/root/ufersa.jpg" width="700" height="250">
 </div>
 <i>UFERSA - Campus Pau dos Ferros</i>
